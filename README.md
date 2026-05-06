@@ -6,7 +6,7 @@ Our products are made from naturally nutritious roasted foxnuts and are designed
 
 ### Our Mission
 
-> “To make healthy snacking irresistible by unlocking the true potential of foxnuts, bringing bold flavors and rich nutrition to every consumer, one crunch at a time.” :contentReference[oaicite:1]{index=1}
+> “To make healthy snacking irresistible by unlocking the true potential of foxnuts, bringing bold flavors and rich nutrition to every consumer, one crunch at a time.” 
 
 ### Features
 
