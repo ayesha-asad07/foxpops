@@ -2,7 +2,7 @@
 
 FoxPops is a modern ecommerce platform for our healthy snack brand, focused on delivering flavorful and nutritious foxnut (Makhana) products to health conscious consumers. The business was created to transform traditional foxnuts into exciting everyday snacks through bold flavors, premium quality ingredients, and a modern online shopping experience.
 
-Our products are made from naturally nutritious roasted foxnuts and are designed as a healthier alternative to conventional junk food. FoxPops combines taste, convenience, and wellness by offering preservative free snacks in consumer friendly packaging. :contentReference[oaicite:0]{index=0}
+Our products are made from naturally nutritious roasted foxnuts and are designed as a healthier alternative to conventional junk food. FoxPops combines taste, convenience, and wellness by offering preservative free snacks in consumer friendly packaging.
 
 ### Our Mission
 
@@ -34,4 +34,4 @@ Our products are made from naturally nutritious roasted foxnuts and are designed
 
 ### Business Vision
 
-FoxPops aims to become a leading healthy snack brand by promoting calcium rich, natural, and flavorful alternatives to processed snacks while building strong awareness around nutritious eating habits. :contentReference[oaicite:2]{index=2}
+FoxPops aims to become a leading healthy snack brand by promoting calcium rich, natural, and flavorful alternatives to processed snacks while building strong awareness around nutritious eating habits.
